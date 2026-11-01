@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/samikshajha25/Leetcode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/samikshajha25/Leetcode-Questions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3668-restore-finishing-order](https://github.com/samikshajha25/Leetcode-Questions/tree/master/3668-restore-finishing-order) |
 ## Binary Search
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/samikshajha25/Leetcode-Questions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3668-restore-finishing-order](https://github.com/samikshajha25/Leetcode-Questions/tree/master/3668-restore-finishing-order) |
 ## Bit Manipulation
 |  |
 | ------- |
